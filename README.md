@@ -38,11 +38,11 @@
 
 # 𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜 𝚄𝚜𝚎𝚍
 <div align="center">
-	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
-	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
-	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code>
-	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
-	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png" alt="Sass" title="Sass"/></code>
+	<img width="40" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/>
+	<img width="40" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/>
+	<img width="40" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/>
+	<img width="40" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/>
+	<img width="40" src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png" alt="Sass" title="Sass"/>
 </div>
 
 <br>
@@ -54,7 +54,7 @@
 <br>
 <div align="center">
 
-# "Ⱳąղƭ ƭօ ɓҽ ɾҽąɗყ ƒօɾ ąղ ҽⱱҽղƭʋąƖ ʂƭօɾɱ? <br> Ƈɦҽƈƙ օʋƭ ɱყ ⱳҽąƭɦҽɾ ąƥƥ [ɦҽɾҽ](https://zaraana.github.io/The-Weather-App/) ąղɗ ʂƭąყ ƥɾҽƥąɾҽɗ!"
+# "Ⱳąղƭ ƭօ ɓҽ ɾҽąɗყ ƒօɾ ąղ ҽⱱҽղƭʋąƖ ʂƭօɾɱ? <br> Ƈɦҽƈƙ օʋƭ ɱყ ⱳҽąƭɦҽɾ ąƥƥ [ɦҽɾҽ](https://zahra-nfls.github.io/The-Weather-App/) ąղɗ ʂƭąყ ƥɾҽƥąɾҽɗ!"
 
 <img  src="Assets/images/gifreadme.gif">
   
